@@ -1,8 +1,8 @@
 ## Always learning, Always building
 
+- Building cross-platform apps using Flutter and Dart.
 - Location: Jordan 🇯🇴
 - Organization: @delta-org
-- Building cross-platform apps using Flutter and Dart.
 
 <!--
 - 🔭 I’m currently working on ...
